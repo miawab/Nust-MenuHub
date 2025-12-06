@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include <fstream>
 using namespace std;
 
 class menuItem {
@@ -7,15 +8,18 @@ class menuItem {
     string name;
     int price;
     float rating;
+    string type;
     menuItem() {
         name = "";
         price = 0;
         rating = 0.0f;
+        type = "";
     }
-    menuItem(string n, int p, float r) {
+    menuItem(string n, int p, float r, string t) {
         name = n;
         price = p;
         rating = r;
+        type = t;
     }
 };
 
@@ -23,10 +27,28 @@ menuItem tempMenu;
 
 class cafe {
     public:
-    string name;
     menuItem menu[50];
-
+    cafe(string fileName) {
+        int i = 0;
+        string nameStr, priceStr, ratingStr, typeStr, blank;
+        ifstream file(fileName);
+        while (true) {
+            if (!getline(file, nameStr)) break;
+                getline(file, priceStr);
+                getline(file, ratingStr);
+                getline(file, typeStr);
+                menu[i].name = nameStr;
+                menu[i].price = stoi(priceStr);
+                menu[i].rating = stof(ratingStr);
+                menu[i].type = typeStr;
+                i++;
+                getline(file, blank);
+        }  
+    } 
 };
+
+
+
 
 
 int itemCount(menuItem menu[]) {
@@ -86,7 +108,19 @@ void sortName(menuItem menu[]) {
 
 };
 
+
 int main() {
+    //main is temperory and just to test
+    cafe c2("C2.txt");
+    int c2count = itemCount(c2.menu);
+
+    cout << "Original Menu (" << c2count << " items):\n";
+    for (int i = 0; i < c2count; i++) {
+        cout << c2.menu[i].name << " - " 
+             << c2.menu[i].price << " PKR - "
+             << c2.menu[i].rating << " stars - "
+             << c2.menu[i].type << endl;
+    }
 
 return 0;
 }
