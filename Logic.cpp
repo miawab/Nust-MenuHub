@@ -27,7 +27,7 @@ menuItem tempMenu;
 
 class cafe {
     public:
-    menuItem menu[100];
+    menuItem menu[270];
     cafe(string fileName) {
         int i = 0;
         string nameStr, priceStr, ratingStr, typeStr, blank;
@@ -53,7 +53,7 @@ class cafe {
 
 int itemCount(menuItem menu[]) {
     int count = 0;
-    for (int i = 0; i < 100; i++) {
+    for (int i = 0; i < 270; i++) {
         if (menu[i].name != "")
             count++;
     }

@@ -1,0 +1,1094 @@
+Chicken Tikka Piece
+350
+0
+a
+
+Chicken Tikka Boti
+350
+0
+a
+
+Chicken Achari Boti
+350
+0
+a
+
+Chicken Malai Boti 6 Piece
+380
+0
+a
+
+Chicken Golden Boti 6 Piece
+380
+0
+a
+
+Chicken Kebab 4 Piece
+360
+0
+a
+
+Chicken Reshmi Kebab 4 Piece
+450
+0
+a
+
+Chicken Cheese Kebab 4 Piece
+450
+0
+a
+
+Chicken Kebab Roll Paratha
+200
+0
+a
+
+Chicken Cheese Kebab Roll Paratha
+250
+0
+a
+
+Chicken Plain Roll Paratha
+250
+0
+a
+
+Chicken Zinger Roll Paratha
+300
+0
+a
+
+Chicken Malai Roll Paratha
+350
+0
+a
+
+Chicken Mango Garlic Roll Paratha
+280
+0
+a
+
+Chicken Sauncy Roll Paratha
+250
+0
+a
+
+Chicken Special Roll Paratha
+300
+0
+a
+
+Chicken Chatpati Tikka Boti Roll Paratha
+250
+0
+a
+
+Chicken Bihari Roll Paratha
+250
+0
+a
+
+Chicken Jumboprawn Roll Paratha
+400
+0
+a
+
+Chicken Jumbo Cheese Roll Paratha
+450
+0
+a
+
+Boom Boom Roll Paratha
+500
+0
+a
+
+Vegetable Roll Paratha
+200
+0
+a
+
+Chicken Pulao
+280
+0
+a
+
+Chicken Biryani
+280
+0
+a
+
+Sada Biryani
+200
+0
+a
+
+Sada Pulao
+200
+0
+a
+
+Egg Fried Rice
+240
+0
+a
+
+Shashlik Rice
+280
+0
+a
+
+Manchurian Rice
+350
+0
+a
+
+Chicken Kabuli Pulao
+320
+0
+a
+
+Aloo Shami
+50
+0
+a
+
+Chicken Fried Rice
+300
+0
+a
+
+Sada Fried Rice
+180
+0
+a
+
+Chicken Korma
+280
+0
+a
+
+Daal/Chana/Sabzi
+150
+0
+a
+
+Daal Mash
+180
+0
+a
+
+Chicken Haleem
+200
+0
+a
+
+Chicken Crispy Piece
+130
+0
+a
+
+Roti
+25
+0
+a
+
+Naan Sada
+30
+0
+a
+
+Roghni Naan
+50
+0
+a
+
+Chicken Karahi Half
+900
+0
+a
+
+Chicken Karahi Full
+1600
+0
+a
+
+Chicken Kofta
+280
+0
+a
+
+Chicken Jalfrezi
+300
+0
+a
+
+Chicken Chowmein
+250
+0
+a
+
+Singel Tea Pack
+60
+0
+a
+
+Doubel Tea Pack
+70
+0
+a
+
+Coffee
+150
+0
+a
+
+Cardamom Tea
+110
+0
+a
+
+Tea Parcel
+200
+0
+a
+
+Bottel 1.5 Ml Pepsi
+10
+0
+a
+
+Bottel 1 Litter Pepsi
+200
+0
+a
+
+Bottel Gourmet 1.5 Litter
+180
+0
+a
+
+Bottel Gourmet Half Litter
+100
+0
+a
+
+Water Bottel Half Litter
+50
+0
+a
+
+Water Bottel 1.5 Litter
+100
+0
+a
+
+Bottel 3.75 Ml
+60
+0
+a
+
+Aloo Samosa
+50
+0
+a
+
+Vegetable Samosa
+50
+0
+a
+
+Vegetable Roll
+50
+0
+a
+
+Chicken Samosa
+70
+0
+a
+
+Chicken Roll
+70
+0
+a
+
+Double Samosa Chaat
+180
+0
+a
+
+Singel Samosa Chaat
+110
+0
+a
+
+Pakora Plate
+200
+0
+a
+
+Fruit Chaat
+220
+0
+a
+
+Chana Chaat/Papri Chaat
+160
+0
+a
+
+Dahi Baray
+160
+0
+a
+
+Zinger Burger
+320
+0
+a
+
+Zinger Roll
+320
+0
+a
+
+Chicken Egg Burger
+350
+0
+a
+
+Chapli Kebab Burger
+300
+0
+a
+
+Chicken Cheese Burger
+340
+0
+a
+
+Chicken Shawarma
+240
+0
+a
+
+Pizza Small
+430
+0
+a
+
+Pizza Medium
+830
+0
+a
+
+Pizza Large
+1200
+0
+a
+
+Pizza Xl
+1400
+0
+a
+
+Pizza C1 Special Xl
+1400
+0
+a
+
+Wing 6 Piece
+500
+0
+a
+
+Chicken Macaroni
+250
+0
+a
+
+Anda Shami Burger
+180
+0
+a
+
+Shami Burger
+150
+0
+a
+
+Chicken Roll Paratha
+350
+0
+a
+
+Chicken Crispy Burger
+350
+0
+a
+
+Thin Crispy Crust Xl
+1800
+0
+a
+
+Cheese Pizza Small
+850
+0
+a
+
+Cheese Pizza Medium
+1250
+0
+a
+
+Cheese Pizza Large
+1600
+0
+a
+
+Cheese Pizza Xl
+1900
+0
+a
+
+Donut Pizza Small
+350
+0
+a
+
+Donut Pizza Medium
+450
+0
+a
+
+Donut Pizza Large
+1250
+0
+a
+
+Donut Pizza Xl
+1600
+0
+a
+
+Chicken Tikka Sandwiches
+220
+0
+a
+
+Chicken Club Sandwiches
+350
+0
+a
+
+Fries Regular Small
+180
+0
+a
+
+Fries Regular Large
+240
+0
+a
+
+Loaded Fries Regular
+350
+0
+a
+
+Loaded Fries Large
+500
+0
+a
+
+Tea Single Tea Bag
+60
+0
+a
+
+Nes-Tea
+110
+0
+a
+
+Green Tea
+40
+0
+a
+
+Hot Chocolate
+150
+0
+a
+
+Oppa Fries
+240
+0
+a
+
+Chicken Croqutts 6 Pcs
+220
+0
+a
+
+Chicken Shawarma
+240
+0
+a
+
+Chicken Paratha Roll
+250
+0
+a
+
+Chicken Butter Patties
+120
+0
+a
+
+Chicken Panini Sandwich
+300
+0
+a
+
+Donut
+150
+0
+a
+
+Chicken Cheese Sandwich
+150
+0
+a
+
+Club Sandwich
+210
+0
+a
+
+Chicken Sandwich Double
+210
+0
+a
+
+Chicken Egg Sandwich
+210
+0
+a
+
+Banana Bread
+160
+0
+a
+
+Salads Bowl Chicken Tikka/Fajita
+300
+0
+a
+
+Tortilla Wrap
+260
+0
+a
+
+Mini Pizza
+180
+0
+a
+
+Small Pizza
+220
+0
+a
+
+Pizza Bread
+150
+0
+a
+
+Pizza Roll
+220
+0
+a
+
+Filled Donut
+120
+0
+a
+
+Chicken Corn Soup Small
+120
+0
+a
+
+Chicken Corn Soup Large
+170
+0
+a
+
+Sausage Roll
+150
+0
+a
+
+Pink Tea
+150
+0
+a
+
+Chicken Nuggets/Fries 6 Pcs
+250
+0
+a
+
+Chicken Nuggets/Fries 12 Pcs
+450
+0
+a
+
+Chicken Nuggets/Fries BBQ 6 Pcs
+300
+0
+a
+
+Chicken Nuggets/Fries BBQ 12 Pcs
+500
+0
+a
+
+Brownie
+200
+0
+a
+
+Chicken Croqutts 12 Pcs
+400
+0
+a
+
+Fudge Brownie
+230
+0
+a
+
+Choco Caramel Browni
+220
+0
+a
+
+Pastry
+160
+0
+a
+
+Pineapple Pastry
+220
+0
+a
+
+Kitkat Pastry
+220
+0
+a
+
+Double Chocolate Pastry
+220
+0
+a
+
+Kitkat Cake Slice
+250
+0
+a
+
+Red Velvet Cake Slice
+250
+0
+a
+
+Cream Roll
+160
+0
+a
+
+Chocolate Pop
+90
+0
+a
+
+Chocolate Mousse
+220
+0
+a
+
+Peach Ice Tea
+150
+0
+a
+
+Slush
+220
+0
+a
+
+Cold Coffee
+280
+0
+a
+
+Ice Cream Shake
+300
+0
+a
+
+Milk Shake
+280
+0
+a
+
+Oreo Shake
+200
+0
+a
+
+Ice Cream 1 Scoop
+90
+0
+a
+
+Ice Cream 2 Scoops
+160
+0
+a
+
+Ice Cream 3 Scoops
+230
+0
+a
+
+Chicken Fillet Burger
+280
+0
+a
+
+Chicken Fillet Cheese Burger
+340
+0
+a
+
+Chicken Shami Burger
+150
+0
+a
+
+Chicken Cheese Shami Burger
+200
+0
+a
+
+Chicken Fries 6 Pcs
+250
+0
+a
+
+Chicken Fries 12 Pcs
+450
+0
+a
+
+Chicken Cheese Croquetts 6 Pcs
+200
+0
+a
+
+Chicken Cheese Croquetts 12 Pcs
+350
+0
+a
+
+Chicken Nuggets 6 Pcs
+250
+0
+a
+
+Chicken Nuggets 12 Pcs
+450
+0
+a
+
+Ice Cream Vanilla Single Scoop
+90
+0
+a
+
+Ice Cream Chocolate Single Scoop
+90
+0
+a
+
+Ice Cream Mango Single Scoop
+90
+0
+a
+
+Ice Cream Coconut Single Scoop
+90
+0
+a
+
+Ice Cream Gulfa Single Scoop
+90
+0
+a
+
+Ice Cream Pistachio Single Scoop
+90
+0
+a
+
+Ice Cream Strawberry Single Scoop
+90
+0
+a
+
+Ice Cream Coffee Single Scoop
+90
+0
+a
+
+Ice Cream Roasted Almond Single Scoop
+90
+0
+a
+
+Ice Cream Vanilla Double Scoop
+160
+0
+a
+
+Ice Cream Chocolate Double Scoop
+160
+0
+a
+
+Ice Cream Mango Double Scoop
+160
+0
+a
+
+Ice Cream Coconut Double Scoop
+160
+0
+a
+
+Ice Cream Gulfa Double Scoop
+160
+0
+a
+
+Ice Cream Pistachio Double Scoop
+160
+0
+a
+
+Ice Cream Strawberry Double Scoop
+160
+0
+a
+
+Ice Cream Coffee Double Scoop
+160
+0
+a
+
+Ice Cream Roasted Almond Double Scoop
+160
+0
+a
+
+Ice Cream Vanilla Triple Scoop
+230
+0
+a
+
+Ice Cream Chocolate Triple Scoop
+230
+0
+a
+
+Ice Cream Mango Triple Scoop
+230
+0
+a
+
+Ice Cream Coconut Triple Scoop
+230
+0
+a
+
+Ice Cream Gulfa Triple Scoop
+230
+0
+a
+
+Ice Cream Pistachio Triple Scoop
+230
+0
+a
+
+Ice Cream Strawberry Triple Scoop
+230
+0
+a
+
+Ice Cream Coffee Triple Scoop
+230
+0
+a
+
+Ice Cream Roasted Almond Triple Scoop
+230
+0
+a
+
+Slush Blueberry
+220
+0
+a
+
+Slush Strawberry
+220
+0
+a
+
+Slush Blackcurrent
+220
+0
+a
+
+Ice Teas
+150
+0
+a
+
+Apple Shake
+200
+0
+a
+
+Banana Shake
+200
+0
+a
+
+Apple Banana Shake
+200
+0
+a
+
+Oreo Shake
+200
+0
+a
+
+Banana Oreo Shake
+210
+0
+a
+
+Dates Shake
+220
+0
+a
+
+Milo Shake
+210
+0
+a
+
+Cold Coffee Shake
+210
+0
+a
+
+Chocolate Shake
+210
+0
+a
+
+Sweet Lime Mosambi Juice
+200
+0
+a
+
+Grapefruit Juice
+180
+0
+a
+
+Pine Apple Juice
+270
+0
+a
+
+Apple Juice
+280
+0
+a
+
+Pomegranate Juice
+400
+0
+a
+
+Carrot Juice
+150
+0
+a
+
+Mango Ice Tea
+150
+0
+a
+
+Peach Ice Tea
+150
+0
+a
+
+Lemon Ice Tea
+150
+0
+a
+
+Brownie Shake
+250
+0
+a
+
+Strawberry Shake
+200
+0
+a
+
+Strawberry Juice
+200
+0
+a
+
+Mint Margarita
+150
+0
+a
+
+Orange Juice
+200
+0
+a
+
+Fhalsa Juice
+200
+0
+a
