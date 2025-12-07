@@ -1,0 +1,443 @@
+Zinger Burger
+300
+0
+
+
+Chicken Burger
+220
+0
+
+
+Crispy Patty Burger
+220
+0
+
+
+Grilled Burger
+280
+0
+
+
+Egg Shami Burger
+150
+0
+
+
+Afghani Burger
+280
+0
+
+
+Zinger Roll
+330
+0
+
+
+Zinger Shawarma
+230
+0
+
+
+Chicken Shawarma
+180
+0
+
+
+Afghani Shawarma
+180
+0
+
+
+Shawarma Platter
+230
+0
+
+
+Chicken Wings
+330
+0
+
+
+Chicken Sandwich
+190
+0
+
+
+Fries Regular
+150
+0
+
+
+Mayo Fries
+200
+0
+
+
+Loaded Fries
+250
+0
+
+
+Pizza Fries
+370
+0
+
+
+Smoke Pizza Fries
+420
+0
+
+
+Tikka Boti Half
+200
+0
+
+
+Tikka Boti Full
+350
+0
+
+
+Malai Boti Half
+220
+0
+
+
+Malai Boti Full
+380
+0
+
+
+Achari Boti Half
+220
+0
+
+
+Achari Boti Full
+380
+0
+
+
+Green Boti Half
+220
+0
+
+
+Green Boti Full
+380
+0
+
+
+Seekh Kebab Half
+350
+0
+
+
+Seekh Kebab Full
+600
+0
+
+
+Reshmi Kebab Half
+380
+0
+
+
+Reshmi Kebab Full
+750
+0
+
+
+Chest Piece
+350
+0
+
+
+Leg Piece
+300
+0
+
+
+Tikka Boti Roll Paratha Small
+220
+0
+
+
+Tikka Boti Roll Paratha Large
+300
+0
+
+
+Seekh Kebab Roll Paratha Small
+190
+0
+
+
+Seekh Kebab Roll Paratha Large
+280
+0
+
+
+Reshmi Kebab Roll Paratha Small
+220
+0
+
+
+Reshmi Kebab Roll Paratha Large
+330
+0
+
+
+Green Boti Roll Paratha Small
+230
+0
+
+
+Green Boti Roll Paratha Large
+330
+0
+
+
+Achari Boti Roll Paratha Small
+230
+0
+
+
+Achari Boti Roll Paratha Large
+330
+0
+
+
+Plain Paratha
+50
+0
+
+
+Cheese
+60
+0
+
+
+Garlic Mayo
+50
+0
+
+
+Lahori Kulcha
+25
+0
+
+
+Tandoori Paratha
+30
+0
+
+
+Roghni Naan
+50
+0
+
+
+Meetha Paratha
+60
+0
+
+
+Kalvanji Naan
+60
+0
+
+
+Aalu Naan
+80
+0
+
+
+Aalu Achari Naan
+90
+0
+
+
+Aalu Cheese Naan
+180
+0
+
+
+Chicken Naan
+220
+0
+
+
+Garlic Naan
+120
+0
+
+
+Chicken Cheese Naan
+250
+0
+
+
+Chicken Achari Naan
+250
+0
+
+
+Keema Naan
+220
+0
+
+
+Keema Cheese Naan
+250
+0
+
+
+Keema Achari Naan
+250
+0
+
+
+Roti
+20
+0
+
+
+Naan
+25
+0
+
+
+Pizza Small
+400
+0
+
+
+Pizza Medium
+1050
+0
+
+
+Pizza Large
+1400
+0
+
+
+Pizza X-Large
+1700
+0
+
+
+White Sauce Pasta
+380
+0
+
+
+Red Sauce Pasta
+380
+0
+
+
+Cheesy Peni Pasta
+400
+0
+
+
+Chicken Chowmein
+380
+0
+
+
+Pizza Roll
+380
+0
+
+
+Samosa
+50
+0
+
+
+Raita
+50
+0
+
+
+Chiken Biryani
+250
+0
+
+
+Chicken Manchurian
+300
+0
+
+
+Chicken Macaroni
+200
+0
+
+
+Banana Shake
+200
+0
+
+
+Apple Shake
+200
+0
+
+
+Dates Shake
+200
+0
+
+
+Oreo Shake
+200
+0
+
+
+Cold Coffee
+200
+0
+
+
+Apple Juice
+250
+0
+
+
+ABC Juice
+250
+0
+
+
+Orange Juice
+200
+0
+
+
+Fruit Chaat
+200
+0
+
+
+Chana Salad
+200
+0
+
+
+Samosa Chaat
+180
+0
+
+
+Channa Chaat
+150
+0
+
+
+Dahi Bhallay
+150
+0

@@ -27,7 +27,7 @@ menuItem tempMenu;
 
 class cafe {
     public:
-    menuItem menu[50];
+    menuItem menu[100];
     cafe(string fileName) {
         int i = 0;
         string nameStr, priceStr, ratingStr, typeStr, blank;
@@ -53,7 +53,7 @@ class cafe {
 
 int itemCount(menuItem menu[]) {
     int count = 0;
-    for (int i = 0; i < 50; i++) {
+    for (int i = 0; i < 100; i++) {
         if (menu[i].name != "")
             count++;
     }
@@ -111,15 +111,15 @@ void sortName(menuItem menu[]) {
 
 int main() {
     //main is temperory and just to test
-    cafe c2("C2.txt");
-    int c2count = itemCount(c2.menu);
+    cafe Inno("Inno.txt");
+    int Innocount = itemCount(Inno.menu);
 
-    cout << "Original Menu (" << c2count << " items):\n";
-    for (int i = 0; i < c2count; i++) {
-        cout << c2.menu[i].name << " - " 
-             << c2.menu[i].price << " PKR - "
-             << c2.menu[i].rating << " stars - "
-             << c2.menu[i].type << endl;
+    cout << "Original Menu (" << Innocount << " items):\n";
+    for (int i = 0; i < Innocount; i++) {
+        cout << Inno.menu[i].name << " - " 
+             << Inno.menu[i].price << " PKR - "
+             << Inno.menu[i].rating << " stars - "
+             << Inno.menu[i].type << endl;
     }
 
 return 0;
