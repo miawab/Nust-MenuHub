@@ -1,443 +1,444 @@
 Zinger Burger
 300
 0
-
+Burger
 
 Chicken Burger
 220
 0
-
+Burger
 
 Crispy Patty Burger
 220
 0
-
+Burger
 
 Grilled Burger
 280
 0
-
+Burger
 
 Egg Shami Burger
 150
 0
-
+Burger
 
 Afghani Burger
 280
 0
-
+Burger
 
 Zinger Roll
 330
 0
-
+RollParatha
 
 Zinger Shawarma
 230
 0
-
+Shawarma
 
 Chicken Shawarma
 180
 0
-
+Shawarma
 
 Afghani Shawarma
 180
 0
-
+Shawarma
 
 Shawarma Platter
 230
 0
-
+Shawarma
 
 Chicken Wings
 330
 0
-
+Wings
 
 Chicken Sandwich
 190
 0
-
+Sandwich
 
 Fries Regular
 150
 0
-
+Fries
 
 Mayo Fries
 200
 0
-
+Fries
 
 Loaded Fries
 250
 0
-
+Fries
 
 Pizza Fries
 370
 0
-
+Fries
 
 Smoke Pizza Fries
 420
 0
-
+Fries
 
 Tikka Boti Half
 200
 0
-
+BBQ
 
 Tikka Boti Full
 350
 0
-
+BBQ
 
 Malai Boti Half
 220
 0
-
+BBQ
 
 Malai Boti Full
 380
 0
-
+BBQ
 
 Achari Boti Half
 220
 0
-
+BBQ
 
 Achari Boti Full
 380
 0
-
+BBQ
 
 Green Boti Half
 220
 0
-
+BBQ
 
 Green Boti Full
 380
 0
+BBQ
 
-
-Seekh Kebab Half
+Seekh Kabab Half
 350
 0
+BBQ
 
-
-Seekh Kebab Full
+Seekh Kabab Full
 600
 0
+BBQ
 
-
-Reshmi Kebab Half
+Reshmi Kabab Half
 380
 0
+BBQ
 
-
-Reshmi Kebab Full
+Reshmi Kabab Full
 750
 0
-
+BBQ
 
 Chest Piece
 350
 0
-
+BBQ
 
 Leg Piece
 300
 0
-
+BBQ
 
 Tikka Boti Roll Paratha Small
 220
 0
-
+RollParatha
 
 Tikka Boti Roll Paratha Large
 300
 0
+RollParatha
 
-
-Seekh Kebab Roll Paratha Small
+Seekh Kabab Roll Paratha Small
 190
 0
+RollParatha
 
-
-Seekh Kebab Roll Paratha Large
+Seekh Kabab Roll Paratha Large
 280
 0
+RollParatha
 
-
-Reshmi Kebab Roll Paratha Small
+Reshmi Kabab Roll Paratha Small
 220
 0
+RollParatha
 
-
-Reshmi Kebab Roll Paratha Large
+Reshmi Kabab Roll Paratha Large
 330
 0
-
+RollParatha
 
 Green Boti Roll Paratha Small
 230
 0
-
+RollParatha
 
 Green Boti Roll Paratha Large
 330
 0
-
+RollParatha
 
 Achari Boti Roll Paratha Small
 230
 0
-
+RollParatha
 
 Achari Boti Roll Paratha Large
 330
 0
-
+RollParatha
 
 Plain Paratha
 50
 0
-
+Bread
 
 Cheese
 60
 0
-
+Extra
 
 Garlic Mayo
 50
 0
-
+Extra
 
 Lahori Kulcha
 25
 0
-
+Bread
 
 Tandoori Paratha
 30
 0
-
+Bread
 
 Roghni Naan
 50
 0
-
+Bread
 
 Meetha Paratha
 60
 0
+Bread
 
-
-Kalvanji Naan
+Kalonji Naan
 60
 0
+Bread
 
-
-Aalu Naan
+Aloo Naan
 80
 0
+Bread
 
-
-Aalu Achari Naan
+Aloo Achari Naan
 90
 0
+Bread
 
-
-Aalu Cheese Naan
+Aloo Cheese Naan
 180
 0
-
+Bread
 
 Chicken Naan
 220
 0
-
+Bread
 
 Garlic Naan
 120
 0
-
+Bread
 
 Chicken Cheese Naan
 250
 0
-
+Bread
 
 Chicken Achari Naan
 250
 0
-
+Bread
 
 Keema Naan
 220
 0
-
+Bread
 
 Keema Cheese Naan
 250
 0
-
+Bread
 
 Keema Achari Naan
 250
 0
-
+Bread
 
 Roti
 20
 0
-
+Bread
 
 Naan
 25
 0
-
+Bread
 
 Pizza Small
 400
 0
-
+Pizza
 
 Pizza Medium
 1050
 0
-
+Pizza
 
 Pizza Large
 1400
 0
-
+Pizza
 
 Pizza X-Large
 1700
 0
-
+Pizza
 
 White Sauce Pasta
 380
 0
-
+Pasta
 
 Red Sauce Pasta
 380
 0
+Pasta
 
-
-Cheesy Peni Pasta
+Cheesy Penne Pasta
 400
 0
-
+Pasta
 
 Chicken Chowmein
 380
 0
-
+Chinese
 
 Pizza Roll
 380
 0
-
+Pizza
 
 Samosa
 50
 0
-
+Sides
 
 Raita
 50
 0
+Extra
 
-
-Chiken Biryani
+Chicken Biryani
 250
 0
-
+Rice
 
 Chicken Manchurian
 300
 0
-
+Chinese
 
 Chicken Macaroni
 200
 0
-
+Pasta
 
 Banana Shake
 200
 0
-
+Shakes
 
 Apple Shake
 200
 0
-
+Shakes
 
 Dates Shake
 200
 0
-
+Shakes
 
 Oreo Shake
 200
 0
-
+Shakes
 
 Cold Coffee
 200
 0
-
+Shakes
 
 Apple Juice
 250
 0
-
+Juices
 
 ABC Juice
 250
 0
-
+Juices
 
 Orange Juice
 200
 0
-
+Juices
 
 Fruit Chaat
 200
 0
-
+Sides
 
 Chana Salad
 200
 0
-
+Sides
 
 Samosa Chaat
 180
 0
+Sides
 
-
-Channa Chaat
+Chana Chaat
 150
 0
-
+Sides
 
 Dahi Bhallay
 150
 0
+Sides
