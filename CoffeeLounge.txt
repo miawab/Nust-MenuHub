@@ -1,599 +1,574 @@
 Chicken Chili Dry
 280
 0
-a
+Chinese
 
 Dragon Chicken
 280
 0
-a
+Chinese
 
 Kung Pao Chicken
 280
 0
-a
+Chinese
 
 Hot Garlic Chicken
 280
 0
-a
+Chinese
 
 Schezwan Chicken
 280
 0
-a
+Chinese
 
 Mongolian Chicken
 280
 0
-a
+Chinese
 
 Gravy With Rice
 540
 0
-a
+Chinese
 
 Gravy With Chowmein
 580
 0
-a
+Chinese
 
 Gravy With Combo
 620
 0
-a
+Chinese
 
 Separate Chowmein
 300
 0
-a
+Chinese
 
 Chicken Roll Paratha
 250
 0
-a
+RollParatha
 
 Chicken Cheese Roll Paratha
 300
 0
-a
+RollParatha
 
 Zinger Roll
 350
 0
-a
+RollParatha
 
 Small 7 Inches Pizza
 500
 0
-a
+Pizza
 
 Medium 11 Inches Pizza
 1000
 0
-a
+Pizza
 
 Large 13 Inches Pizza
 1300
 0
-a
+Pizza
 
 Xl 15 Inches Pizza
 1500
 0
-a
-
-Fajita Flavor Pizza
-0
-0
-a
-
-Tikka Flavor Pizza
-0
-0
-a
-
-Supreme Flavor Pizza
-0
-0
-a
-
-Pepperoni Flavor Pizza
-0
-0
-a
-
-Bbq Flavor Pizza
-0
-0
-a
+Pizza
 
 Chicken Biryani
 280
 0
-a
+Rice
 
-Biryani With Chicken
-280
+Biryani W/O Chicken
+200
 0
-a
+Rice
 
 Chicken Pulao
 280
 0
-a
+Rice
 
 Beef Vegetable Chanay Full
-900
+150
 0
-a
+Salan
 
 Chicken Haleem
-900
+200
 0
-a
+Salan
 
 Chicken Karahi 850 Gms
-600
+1600
 0
-a
+Salan
 
 Chicken Karahi Half 400 Gms
 900
 0
-a
+Salan
 
 Chai
 80
 0
-a
+HotDrink
 
 Cappuccino Latte
 250
 0
-a
+HotDrink
 
 Black Coffee
 200
 0
-a
+HotDrink
 
-Malao
+Nestea
 110
 0
-a
+HotDrink
 
 Coffee 3 In 1
 150
 0
-a
+HotDrink
 
 Green Tea
 50
 0
-a
+HotDrink
 
 Apple Juice
 280
 0
-a
+Juices
 
 Pineapple Juice
 270
 0
-a
+Juices
 
 Peach Juice
 200
 0
-a
+Juices
 
 Carrot Juice
 150
 0
-a
+Juices
 
 Lemon Mint
 150
 0
-a
+Juices
 
 Orange Juice
 200
 0
-a
+Juices
 
 Mango Shake
 200
 0
-a
+Shakes
 
 Apple Shake
 200
 0
-a
+Shakes
 
 Pineapple Shake
 200
 0
-a
+Shakes
 
 Peach Shake
 200
 0
-a
+Shakes
 
 Banana Shake
 200
 0
-a
+Shakes
 
 Strawberry Shake
 200
 0
-a
+Shakes
 
 Oreo Shake
 250
 0
-a
+Shakes
 
 Oreo Banana Shake
 250
 0
-a
+Shakes
 
 Chocolate Shake
 200
 0
-a
+Shakes
 
 Chocolate Banana Shake
 230
 0
-a
+Shakes
 
 Milo Shake
 200
 0
-a
+Shakes
 
 Date Shake
 200
 0
-a
+Shakes
 
 Regular Fries
 180
 0
-a
+Fries
 
 Large Fries
 280
 0
-a
+Fries
 
 Garlic Mayo Fries
 250
 0
-a
+Fries
 
 Special Fries
 320
 0
-a
+Fries
 
 Peri Peri Fries
 320
 0
-a
+Fries
 
 Oyster Fries
 450
 0
-a
+Fries
 
 Crispy Chicken Wings
 450
 0
-a
+Fries
 
 Zinger Burger
 400
 0
-a
+Burger
 
 Grilled Chicken Burger
 450
 0
-a
+Burger
 
 Classic Burger
 350
 0
-a
+Burger
 
 Mushroom Melt Burger
 520
 0
-a
+Burger
 
 Club Sandwich
 300
 0
-a
+Sandwich
 
 Chicken Sandwich
 350
 0
-a
+Sandwich
 
 Bbq Sandwich
 350
 0
-a
+Sandwich
 
 Chicken Fajita Sandwich
 400
 0
-a
+Sandwich
 
 Fettuccine Pasta R
 540
 0
-a
+Pasta
 
 Fettuccine Pasta L
 1020
 0
-a
+Pasta
 
 Grilled Chicken Pasta
 590
 0
-a
+Pasta
 
 Mac And Cheese Regular
 550
 0
-a
+Pasta
 
 Corn Dogs 1 Pc
 300
 0
-a
+Sides
 
 Corn Dogs 2 Pcs
 500
 0
-a
+Sides
 
-Lachho Paratha
+Lachha Paratha
 60
 0
-a
+Bread
 
 Chicken Paratha
 250
 0
-a
+Bread
 
 Aloo Paratha
 150
 0
-a
+Bread
 
 Chicken Cheese Paratha
 300
 0
-a
+Bread
 
 Aloo Cheese Paratha
 250
 0
-a
+Bread
 
 Omelette
 100
 0
-a
+Sides
 
 Fried Egg
 70
 0
-a
+Sides
 
 Half Fry Egg
 70
 0
-a
+Sides
 
 Cheese Omelette
 150
 0
-a
+Sides
 
 Mushroom Omelette
 150
 0
-a
+Sides
 
 Mushroom Cheese Omelette
 220
 0
-a
+Sides
 
 Pak Authentic Shawarma
 250
 0
-a
+Shawarma
 
 Shawarma Ladz Wrap Medium
 350
 0
-a
+Shawarma
 
 Shawarma Ladz Wrap Large
 450
 0
-a
+Shawarma
 
 Cheese Extra
 70
 0
-a
+Extra
 
 Barfi Gola
 100
 0
-a
+Sides
 
 Special Gola
 200
 0
-a
+Sides
 
 Special Falooda
 200
 0
-a
+Sides
 
 Plain Samosa
 50
 0
-a
+Sides
 
 Aloo Samosa
 50
 0
-a
+Sides
 
 Chicken Samosa
 60
 0
-a
+Sides
 
 Vegetable Samosa
 50
 0
-a
+Sides
 
 Pakora Plate
 150
 0
-a
+Sides
 
 Samosa Chat Single
 110
 0
-a
+Sides
 
 Samosa Chat Double
-150
+160
 0
-a
+Sides
 
-Dahi Phulki
-150
+Dahi Barray
+160
 0
-a
+Sides
 
 Chana Chat
 150
 0
-a
+Sides
 
 Fruit Chat
 250
 0
-a
+Sides
 
 Cream Chat
 280
 0
-a
+Sides
 
 Gol Gappay 7 Pieces
 180
 0
-a
+Sides
 
 Gol Gappay 10 Pieces
 240
 0
-a
+Sides
 
 Mango Ice Cream Single
 110
 0
-a
+IceCream
 
 Strawberry Ice Cream Single
 110
 0
-a
+IceCream
 
 Chocolate Ice Cream Single
 130
 0
-a
+IceCream
 
 Vanilla Ice Cream Single
 110
 0
-a
+IceCream
 
 Mango Ice Cream Double Scoop
 220
 0
-a
+IceCream
 
 Strawberry Ice Cream Double Scoop
 220
 0
-a
+IceCream
 
 Chocolate Ice Cream Double Scoop
 260
 0
-a
+IceCream
 
 Vanilla Ice Cream Double Scoop
 220
 0
-a
+IceCream
 
 Mango Ice Cream Shake
 200
 0
-a
+Shakes
 
 Strawberry Ice Cream Shake
 200
 0
-a
+Shakes
 
 Chocolate Ice Cream Shake
 200
 0
-a
+Shakes
 
 Vanilla Ice Cream Shake
 200
 0
-a
+Shakes
 
 Oreo Ice Cream Shake
 300
 0
-a
+Shakes
 
 Milo Ice Cream Shake
 300
 0
-a
+Shakes
 
 Coconut Ice Cream Shake
 320
 0
-a
+Shakes

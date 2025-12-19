@@ -1,0 +1,259 @@
+Apple Shake
+200
+0
+Shakes
+
+Banana Shake
+200
+0
+Shakes
+
+Apple Banana Shake
+250
+0
+Shakes
+
+Strawberry Shake
+200
+0
+Shakes
+
+Mango Shake
+250
+0
+Shakes
+
+Aalo Paratha
+120
+0
+Bread
+
+Cheese Paratha
+200
+0
+Bread
+
+Chicken Paratha
+250
+0
+Bread
+
+Simple Paratha
+60
+0
+Bread
+
+Egg Omelte
+60
+0
+Sides
+
+Bread Slice
+25
+0
+Bread
+
+Chicken Shawarma
+190
+0
+Shawarma
+
+Chicken Cheese Shawarma
+250
+0
+Shawarma
+
+Zinger Shawarma
+300
+0
+Shawarma
+
+Zinger Cheese Shawarma
+360
+0
+Shawarma
+
+Zinger Burger
+300
+0
+Burger
+
+Zinger Cheese Burger
+360
+0
+Burger
+
+Aalo Samosa
+50
+0
+Sides
+
+Chicken Samosa
+70
+0
+Sides
+
+Vegetable Samosa
+50
+0
+Sides
+
+Chicken Roll
+70
+0
+Roll
+
+Vegetable Roll
+50
+0
+Roll
+
+Tea
+80
+0
+HotDrink
+
+Chicken Biryani
+250
+0
+Rice
+
+Chicken Pulaao
+250
+0
+Rice
+
+Beef Pulaao
+250
+0
+Rice
+
+Haleem Chawal
+250
+0
+Rice
+
+Chinese Rice
+250
+0
+Chinese
+
+Plain Rice
+170
+0
+Rice
+
+Single Samosa Chat
+100
+0
+Sides
+
+Double Samosa Chat
+150
+0
+Sides
+
+Omelet Shami Sandwich
+150
+0
+Sandwich
+
+Omelet Sandwich
+100
+0
+Sandwich
+
+Shami Sandwich
+100
+0
+Sandwich
+
+Omelet Shami Cheese Sandwich
+240
+0
+Sandwich
+
+Club Sandwich
+250
+0
+Sandwich
+
+Chicken Sandwich
+150
+0
+Sandwich
+
+Chicken Chowmien
+250
+0
+Chinese
+
+Chicken Macroni
+250
+0
+Pasta
+
+Pasta
+250
+0
+Pasta
+
+Chicken Shawarma
+200
+0
+Shawarma
+
+Chicken Cheese Shawarma
+250
+0
+Shawarma
+
+Zinger Shawarma
+300
+0
+Shawarma
+
+Zinger Cheese Shawarma
+360
+0
+Shawarma
+
+Zinger Burger
+300
+0
+Burger
+
+Zinger Cheese Burger
+360
+0
+Burger
+
+Chicken Burger
+250
+0
+Burger
+
+Chicken Chese Burger
+310
+0
+Burger
+
+Chicken Paratha Roll
+250
+0
+RollParatha
+
+Chicken Cheese Paratha Roll
+310
+0
+RollParatha
+
+Zinger Paratha Roll
+320
+0
+RollParatha
+
+Zinger Cheese Paratha Roll
+380
+0
+RollParatha

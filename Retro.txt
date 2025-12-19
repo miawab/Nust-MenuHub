@@ -1,0 +1,229 @@
+Fries
+130
+0
+Fries
+
+Club sandwich
+300
+0
+Sandwich
+
+Zinger burger with fries
+350
+0
+Burger
+
+Pizza pasta
+430
+0
+Pasta
+
+Double Maza Burger
+400
+0
+Burger
+
+Mcdonald pizza
+500
+0
+Pizza
+
+Malai boti pizza
+500/900/1400
+0
+Pizza
+
+Chicken cheese stuffed pizza
+1000/1500
+0
+Pizza
+
+Tortilla wrap
+450
+0
+Roll
+
+Apple juice
+280
+0
+Juices
+
+Strawberry juice
+200
+0
+Juices
+
+lasi
+150
+0
+Juices
+
+Tikka jumbo roll
+400
+0
+RollParatha
+
+Malai boti jumbo roll
+600
+0
+RollParatha
+
+Dhai ballah
+170
+0
+Sides
+
+Peach juice
+200
+0
+Juices
+
+Peach shake
+200
+0
+Shakes
+
+Chicken Biryani
+280
+0
+Rice
+
+Chicken Pulao
+280
+0
+Rice
+
+Chicken Tikka Piece
+350
+0
+BBQ
+
+Chicken Malai Boti (8 Piece)
+500
+0
+BBQ
+
+Chicken Seekh Kabab (4 Piece)
+350
+0
+BBQ
+
+Aloo Paratha
+140
+0
+Bread
+
+Aloo Cheese Paratha
+210
+0
+Bread
+
+Cheese Paratha
+200
+0
+Bread
+
+Chicken Cheese Paratha
+320
+0
+Bread
+
+Simple Paratha
+60
+0
+Bread
+
+EGG Omelet
+60
+0
+Sides
+
+El Special Pizza
+450/870/1400
+0
+Pizza
+
+Papcroni Pizza
+430/830/1200
+0
+Pizza
+
+Sausages Pizza
+430/830/1200
+0
+Pizza
+
+Chapli kabab Pizza
+430/830/1200
+0
+Pizza
+
+Supreme Pizza
+450/870/1200
+0
+Pizza
+
+Bar B Q Pizza
+430/830/1200
+0
+Pizza
+
+Grill Pizza
+430/830/1200
+0
+Pizza
+
+Chicken Tikka Pizza
+500/1000/1400
+0
+Pizza
+
+Crown Crust Pizza
+430/830/1200
+0
+Pizza
+
+Smoke Pizza
+430/830/1200
+0
+Pizza
+
+Chicken Fajita Pizza
+430/830/1200
+0
+Pizza
+
+Extra Topping/Cheese
+140/200/250
+0
+Extra
+
+Seekh kabab
+300
+0
+RollParatha
+
+Malai Boti Roll
+380
+0
+RollParatha
+
+BBQ Roll Paratha
+280
+0
+RollParatha
+
+Chicken Tikka Roll
+280
+0
+RollParatha
+
+Chicken Paratha Roll
+250
+0
+RollParatha
+
+Chicken Mayo Garlic Roll
+280
+0
+RollParatha

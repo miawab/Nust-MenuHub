@@ -1,0 +1,939 @@
+Chicken Chili Dry
+280
+0
+Chinese
+
+Dragon Chicken
+280
+0
+Chinese
+
+Kung Pao Chicken
+280
+0
+Chinese
+
+Hot Garlic Chicken
+280
+0
+Chinese
+
+Schezwan Chicken
+280
+0
+Chinese
+
+Mongolian Chicken
+280
+0
+Chinese
+
+Gravy With Rice
+540
+0
+Chinese
+
+Gravy With Chowmein
+580
+0
+Chinese
+
+Gravy With Combo
+620
+0
+Chinese
+
+Separate Chowmein
+300
+0
+Chinese
+
+Chicken Roll Paratha
+250
+0
+RollParatha
+
+Chicken Cheese Roll Paratha
+300
+0
+RollParatha
+
+Zinger Roll
+350
+0
+RollParatha
+
+Small 7 Inches Pizza
+500
+0
+Pizza
+
+Medium 11 Inches Pizza
+1000
+0
+Pizza
+
+Large 13 Inches Pizza
+1300
+0
+Pizza
+
+Xl 15 Inches Pizza
+1500
+0
+Pizza
+
+Chicken Biryani
+280
+0
+Rice
+
+Biryani W/O Chicken
+200
+0
+Rice
+
+Chicken Pulao
+280
+0
+Rice
+
+Beef Vegetable Chanay Full
+150
+0
+Salan
+
+Chicken Haleem
+200
+0
+Salan
+
+Chicken Karahi 850 Gms
+1600
+0
+Salan
+
+Chicken Karahi Half 400 Gms
+900
+0
+Salan
+
+Chai
+80
+0
+HotDrink
+
+Cappuccino Latte
+250
+0
+HotDrink
+
+Black Coffee
+200
+0
+HotDrink
+
+Nestea
+110
+0
+HotDrink
+
+Coffee 3 In 1
+150
+0
+HotDrink
+
+Green Tea
+50
+0
+HotDrink
+
+Apple Juice
+280
+0
+Juices
+
+Pineapple Juice
+270
+0
+Juices
+
+Peach Juice
+200
+0
+Juices
+
+Carrot Juice
+150
+0
+Juices
+
+Lemon Mint
+150
+0
+Juices
+
+Orange Juice
+200
+0
+Juices
+
+Mango Shake
+200
+0
+Shakes
+
+Apple Shake
+200
+0
+Shakes
+
+Pineapple Shake
+200
+0
+Shakes
+
+Peach Shake
+200
+0
+Shakes
+
+Banana Shake
+200
+0
+Shakes
+
+Strawberry Shake
+200
+0
+Shakes
+
+Oreo Shake
+250
+0
+Shakes
+
+Oreo Banana Shake
+250
+0
+Shakes
+
+Chocolate Shake
+200
+0
+Shakes
+
+Chocolate Banana Shake
+230
+0
+Shakes
+
+Milo Shake
+200
+0
+Shakes
+
+Date Shake
+200
+0
+Shakes
+
+Regular Fries
+180
+0
+Fries
+
+Large Fries
+280
+0
+Fries
+
+Garlic Mayo Fries
+250
+0
+Fries
+
+Special Fries
+320
+0
+Fries
+
+Peri Peri Fries
+320
+0
+Fries
+
+Oyster Fries
+450
+0
+Fries
+
+Crispy Chicken Wings
+450
+0
+Fries
+
+Zinger Burger
+400
+0
+Burger
+
+Grilled Chicken Burger
+450
+0
+Burger
+
+Classic Burger
+350
+0
+Burger
+
+Mushroom Melt Burger
+520
+0
+Burger
+
+Club Sandwich
+300
+0
+Sandwich
+
+Chicken Sandwich
+350
+0
+Sandwich
+
+Bbq Sandwich
+350
+0
+Sandwich
+
+Chicken Fajita Sandwich
+400
+0
+Sandwich
+
+Fettuccine Pasta R
+540
+0
+Pasta
+
+Fettuccine Pasta L
+1020
+0
+Pasta
+
+Grilled Chicken Pasta
+590
+0
+Pasta
+
+Mac And Cheese Regular
+550
+0
+Pasta
+
+Corn Dogs 1 Pc
+300
+0
+Sides
+
+Corn Dogs 2 Pcs
+500
+0
+Sides
+
+Lachha Paratha
+60
+0
+Bread
+
+Chicken Paratha
+250
+0
+Bread
+
+Aloo Paratha
+150
+0
+Bread
+
+Chicken Cheese Paratha
+300
+0
+Bread
+
+Aloo Cheese Paratha
+250
+0
+Bread
+
+Omelette
+100
+0
+Sides
+
+Fried Egg
+70
+0
+Sides
+
+Half Fry Egg
+70
+0
+Sides
+
+Cheese Omelette
+150
+0
+Sides
+
+Mushroom Omelette
+150
+0
+Sides
+
+Mushroom Cheese Omelette
+220
+0
+Sides
+
+Pak Authentic Shawarma
+250
+0
+Shawarma
+
+Shawarma Ladz Wrap Medium
+350
+0
+Shawarma
+
+Shawarma Ladz Wrap Large
+450
+0
+Shawarma
+
+Cheese Extra
+70
+0
+Extra
+
+Barfi Gola
+100
+0
+Sides
+
+Special Gola
+200
+0
+Sides
+
+Special Falooda
+200
+0
+Sides
+
+Plain Samosa
+50
+0
+Sides
+
+Aloo Samosa
+50
+0
+Sides
+
+Chicken Samosa
+60
+0
+Sides
+
+Vegetable Samosa
+50
+0
+Sides
+
+Pakora Plate
+150
+0
+Sides
+
+Samosa Chat Single
+110
+0
+Sides
+
+Samosa Chat Double
+160
+0
+Sides
+
+Dahi Barray
+160
+0
+Sides
+
+Chana Chat
+150
+0
+Sides
+
+Fruit Chat
+250
+0
+Sides
+
+Cream Chat
+280
+0
+Sides
+
+Gol Gappay 7 Pieces
+180
+0
+Sides
+
+Gol Gappay 10 Pieces
+240
+0
+Sides
+
+Mango Ice Cream Single
+110
+0
+IceCream
+
+Strawberry Ice Cream Single
+110
+0
+IceCream
+
+Chocolate Ice Cream Single
+130
+0
+IceCream
+
+Vanilla Ice Cream Single
+110
+0
+IceCream
+
+Mango Ice Cream Double Scoop
+220
+0
+IceCream
+
+Strawberry Ice Cream Double Scoop
+220
+0
+IceCream
+
+Chocolate Ice Cream Double Scoop
+260
+0
+IceCream
+
+Vanilla Ice Cream Double Scoop
+220
+0
+IceCream
+
+Mango Ice Cream Shake
+200
+0
+Shakes
+
+Strawberry Ice Cream Shake
+200
+0
+Shakes
+
+Chocolate Ice Cream Shake
+200
+0
+Shakes
+
+Vanilla Ice Cream Shake
+200
+0
+Shakes
+
+Oreo Ice Cream Shake
+300
+0
+Shakes
+
+Milo Ice Cream Shake
+300
+0
+Shakes
+
+Coconut Ice Cream Shake
+320
+0
+Shakes
+
+Nutella Paratha
+320
+0
+Paratha
+
+Malai Paratha
+160
+0
+Paratha
+
+Meetha Paratha
+150
+0
+Paratha
+
+Pizza Paratha
+470
+0
+Paratha
+
+Pepperoni Cheese Paratha
+350
+0
+Paratha
+
+Jalapeno Cheese Paratha
+290
+0
+Paratha
+
+Jalapeno Chicken Cheese Paratha
+390
+0
+Paratha
+
+Cheese Paratha
+300
+0
+Paratha
+
+Plain Paratha
+60
+0
+Paratha
+
+Chicken Tandoori Paratha
+320
+0
+Paratha
+
+Chicken Tikka Paratha
+330
+0
+Paratha
+
+Chicken Cheese Paratha
+380
+0
+Paratha
+
+Chicken Achari Paratha
+340
+0
+Paratha
+
+Chicken Achari Cheese Paratha
+400
+0
+Paratha
+
+Aloo Paratha
+140
+0
+Paratha
+
+Aloo Achari Paratha
+160
+0
+Paratha
+
+Aloo Cheese Paratha
+230
+0
+Paratha
+
+Aloo Achari Cheese Paratha
+250
+0
+Paratha
+
+Pizza Fries
+350
+0
+Fries
+
+Mushroom Cheese Fries
+330
+0
+Fries
+
+Chilli Cheese Fries
+340
+0
+Fries
+
+Jalapeno Cheese Fries
+320
+0
+Fries
+
+Cheese Fries
+310
+0
+Fries
+
+Garlic Mayo Fries
+280
+0
+Fries
+
+Masala Fries
+130
+0
+Fries
+
+Cheese Omelette
+130
+0
+Sides
+
+Mushroom Cheese Omelette
+140
+0
+Sides
+
+Cheese Olive Omelette
+150
+0
+Sides
+
+Chicken Cheese Omelette
+150
+0
+Sides
+
+Special Omelette
+70
+0
+Sides
+
+Fried Egg
+60
+0
+Sides
+
+Chowmein
+350
+0
+Chinese
+
+Manchurian
+350
+0
+Chinese
+
+Chilli Dry
+350
+0
+Chinese
+
+Kung Pao
+350
+0
+Chinese
+
+Plain French Fries (Regular)
+199
+0
+Fries
+
+Plain French Fries (Large)
+299
+0
+Fries
+
+Signature Fries (Regular)
+299
+0
+Fries
+
+Signature Fries (Large)
+399
+0
+Fries
+
+Barbecue Blast
+40
+0
+Extra
+
+Sharp Spice
+50
+0
+Extra
+
+Chicken Infusion
+40
+0
+Extra
+
+Hot Pepper Punch
+40
+0
+Extra
+
+Chilli Garlic Sauce
+20
+0
+Extra
+
+Simple Mayo
+30
+0
+Extra
+
+Garlic Mayo Whip
+40
+0
+Extra
+
+Hot Garlic Mayo
+50
+0
+Extra
+
+Milo Shake
+200
+0
+Shakes
+
+Cold Coffee Shake
+200
+0
+Shakes
+
+Oreo Shake
+200
+0
+Shakes
+
+Orange Juice
+200
+0
+Juices
+
+Grape Juice
+200
+0
+Juices
+
+Mint Cooler
+200
+0
+Juices
+
+Strawberry (Juice + Shake)
+200
+0
+Juices
+
+Mango Shake
+200
+0
+Shakes
+
+Banana Shake
+200
+0
+Shakes
+
+Simple Tea
+60
+0
+HotDrink
+
+Doodh Pati (Machine)
+80
+0
+HotDrink
+
+Cardamom Tea (Small Cup)
+110
+0
+HotDrink
+
+Cardamom Tea (Large Cup)
+130
+0
+HotDrink
+
+Coffee All Kinds
+150
+0
+HotDrink
+
+Chicken Shawarma
+240
+0
+Shawarma
+
+Zinger Shawarma & Zinger Roll Paratha
+300
+0
+Shawarma
+
+Zinger Burger
+300
+0
+Burger
+
+Chicken Cheese Roll
+100
+0
+RollParatha
+
+Chicken Biryani & Chicken Pulao
+280
+0
+Rice
+
+Brownies (Large)
+180
+0
+Dessert
+
+Cup Cake
+170
+0
+Dessert
+
+Banana Bread
+180
+0
+Dessert
+
+Cookies
+160
+0
+Dessert
+
+Mini Pizza
+140
+0
+Pizza
+
+Roll Pizza
+170
+0
+Pizza
+
+Chicken Sandwich
+170
+0
+Sandwich

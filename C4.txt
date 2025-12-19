@@ -1,0 +1,269 @@
+Chicken Roll Paratha
+250
+0
+RollParatha
+
+Chicken Cheese Roll Paratha
+300
+0
+RollParatha
+
+Seekh Kebab Roll
+300
+0
+RollParatha
+
+Chicken Shawarma
+250
+0
+Shawarma
+
+Chana Chaat
+150
+0
+Sides
+
+Dahi Bhalla
+150
+0
+Sides
+
+Samosa Chaat
+180
+0
+Sides
+
+Chicken Dumplings
+400
+0
+Chinese
+
+Seasonal Fruit Juices
+300
+0
+Juices
+
+Zinger Burger
+300
+0
+Burger
+
+Chicken Patty Burger
+250
+0
+Burger
+
+Shami Burger
+150
+0
+Burger
+
+Shami Egg Burger
+180
+0
+Burger
+
+Chapli Kabab Burger
+300
+0
+Burger
+
+Aloo Samosa
+50
+0
+Sides
+
+Chicken Samosa
+50
+0
+Sides
+
+Chicken Roll
+70
+0
+Roll
+
+Vegetable Roll
+50
+0
+Roll
+
+Shami Kebab
+60
+0
+Sides
+
+Chicken Biryani
+280
+0
+Rice
+
+Pulao
+280
+0
+Rice
+
+Spaghetti
+200
+0
+Pasta
+
+Macaroni
+200
+0
+Pasta
+
+Fries
+150
+0
+Fries
+
+Loaded Fries
+300
+0
+Fries
+
+Chanay
+150
+0
+Salan
+
+Omelette
+80
+0
+Sides
+
+Fried Egg
+60
+0
+Sides
+
+Paratha
+80
+0
+Bread
+
+Tea
+80
+0
+HotDrink
+
+Cardamom Tea
+100
+0
+HotDrink
+
+Coffee
+150
+0
+HotDrink
+
+Chicken Paratha Roll
+250
+0
+RollParatha
+
+Chicken Cheese Paratha Roll
+300
+0
+RollParatha
+
+Chicken Egg Paratha Roll
+300
+0
+RollParatha
+
+Zinger Paratha Roll
+300
+0
+RollParatha
+
+Jumbo Roll Paratha
+400
+0
+RollParatha
+
+Boom Boom Roll
+460
+0
+RollParatha
+
+Chicken Hard Spicy Roll
+300
+0
+RollParatha
+
+Chicken Cheese Roll
+360
+0
+RollParatha
+
+Chicken Mayo Garlic Roll
+360
+0
+RollParatha
+
+Chicken Mayo with Cheese Roll
+400
+0
+RollParatha
+
+Malai Roll Paratha
+350
+0
+RollParatha
+
+Malai Jumbo Roll Paratha
+440
+0
+RollParatha
+
+Malai Boom Boom Roll Paratha
+530
+0
+RollParatha
+
+Malai Boom Boom With Cheese Roll
+550
+0
+RollParatha
+
+Malai Boom Boom Cheese with Garlic
+600
+0
+RollParatha
+
+Chicken Seekh Boti
+230
+0
+BBQ
+
+Chicken Malai Boti
+250
+0
+BBQ
+
+Chicken Tikka (Chest)
+450
+0
+BBQ
+
+Chicken Tikka (Leg)
+420
+0
+BBQ
+
+Chicken Cheese Shawarma
+310
+0
+Shawarma
+
+Shawarma Platter
+380
+0
+Shawarma
+
+Cheese
+50
+0
+Extra
